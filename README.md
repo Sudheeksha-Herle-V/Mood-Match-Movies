@@ -59,6 +59,8 @@ Ensure MongoDB is running and your movie metadata database is set up. Update any
 4. The app detects your emotion in real time.
 5. Browse the recommended movies based on your current mood.
 
+---
+
 ### App Screenshots
 
 #### Home Page
@@ -72,6 +74,7 @@ Ensure MongoDB is running and your movie metadata database is set up. Update any
 ![negative1](Screenshots/Negative1.png)
 ![negative2](Screenshots/Negative2.png)
 
+---
 
 ### AUTHOR
 **Sudheeksha Herle V**  
