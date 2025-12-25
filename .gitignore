@@ -1,0 +1,24 @@
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.cpython-*
+
+
+# Virtual environment
+venv/
+.env/
+
+# Streamlit
+.streamlit/
+
+# ML models (ignore if large)
+model/
+*.h5
+*.pkl
+*.pt
+
+# OS junk
+.DS_Store
+Thumbs.db
